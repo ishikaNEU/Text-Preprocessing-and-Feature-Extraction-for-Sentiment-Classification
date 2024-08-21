@@ -14,5 +14,3 @@ This project demonstrates various text processing techniques to clean and prepar
 1. Install the required packages using `requirements.txt`.
 2. Run the Jupyter notebook to see the full text preprocessing and feature extraction pipeline in action.
 
-## License
-This project is licensed under the MIT License.
